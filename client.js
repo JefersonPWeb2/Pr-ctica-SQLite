@@ -45,4 +45,3 @@ function loadCastings() {
         })
         .catch(error => console.error('Error:', error));
 }
-
